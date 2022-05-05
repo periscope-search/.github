@@ -1,3 +1,3 @@
 ## Periscope-Search
 
-The website is <a href="https://periscop-search.github.io/" target="blank">here</a>.
+The website is <a href="https://periscope-search.github.io/">here</a>.
